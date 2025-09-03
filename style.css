@@ -1,0 +1,22 @@
+h1{
+    color:magenta;
+}
+
+ul.a {
+    border: solid 0.3em blue;
+    list-style-type: circle;
+}
+
+ul.b{
+    border: solid 0.3em red;
+    list-style-type: square;
+}
+
+h3{
+    color: purple;
+}
+
+ol{
+    list-style-type: upper-roman;
+     border: solid 0.3em green;
+}
